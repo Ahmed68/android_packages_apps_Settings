@@ -3,38 +3,38 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- About phone screen, DarkCM version -->
-    <string name="dcm_version_title">DarkCyanogenMod version</string>
+    <string name="dcm_version_title">DarkCyanogenMod نسخة</string>
     <string name="dcm_version_default">5.10</string>
 
     <!-- General strings -->
-    <string name="attention">Attention</string>
-    <string name="misc_title">Misc</string>
-    <string name="default_string">Default</string>
-    <string name="recent_panel_settings_title">Recent panel settings</string>
-    <string name="reset">Reset</string>
-    <string name="reset_colors">Reset all colors to default?</string>
-    <string name="reset_default_message">Reset default</string>
-    <string name="ok">Ok</string>
-    <string name="enabled">Enabled</string>
-    <string name="disabled">Disabled</string>
-    <string name="note">NOTE</string>
+    <string name="attention">انتباه</s  tring>
+    <string name="misc_title">متفرقات</string>
+    <string name="default_string">افتراضى</string>
+    <string name="recent_panel_settings_title">اعادة تعين الخيارات</string>
+    <string name="reset">اعادة تعين</string>
+    <string name="reset_colors">اعادة تعين كل الالوان الى اللون الافتراضى?</string>
+    <string name="reset_default_message">تعين الافتراضى</string>
+    <string name="ok">تم</string>
+    <string name="enabled">تشغيل</string>
+    <string name="disabled">ايقاف</string>
+    <string name="note">ملاحظة</string>
 
     <!-- Advanced settings -->
-    <string name="advanced_options_settings_title">Advanced</string>
+    <string name="advanced_options_settings_title">متقدم</string>
 
     <!-- TRDS -->
     <string name="theme_settings_title">Dark Mode</string>
-    <string name="theme_auto_mode_title">Switch theme</string>
-    <string name="theme_auto_mode_off">Manual</string>
-    <string name="theme_auto_mode_lightsensor">On light condition change</string>
-    <string name="theme_auto_mode_twilight">On daytime</string>
-    <string name="theme_auto_switch_mode_error">Automatic light condition change mode is enabled. Manual switching is not possible.</string>
+    <string name="theme_auto_mode_title">الانتقال الى الثيم</string>
+    <string name="theme_auto_mode_off">يدوى</string>
+    <string name="theme_auto_mode_lightsensor">بشأن تغير حالة خفيفة</string>
+    <string name="theme_auto_mode_twilight">فى النهار
+    <string name="theme_auto_switch_mode_error">يتم تمكين ضوء حالة تغيير الوضع التلقائي. التبديل اليدوي غير ممكن.</string>
 
     <!-- TRDS tile -->
-    <string name="title_tile_theme">Theme switcher</string>
+    <string name="title_tile_theme">الانتقال الى الثيم
 
     <!-- crDroid notifications -->
-    <string name="crdroid_notifications_title">Notification services</string>
+    <string name="crdroid_notifications_title">حالة g>
 
     <!-- Halo -->
     <!-- Halo enable/disable -->
@@ -139,7 +139,7 @@
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="color_default"> </string>
 
     <!-- Recent Ram Bar -->
     <string name="ram_bar">Recent RAM bar</string>
@@ -1065,22 +1065,22 @@
     <string name="time_six">Six</string>
     <string name="time_seven">Seven</string>
     <string name="time_eight">Eight</string>
-    <string name="time_nine">Nine</string>
-    <string name="time_ten">Ten</string>
+    <string name="time_nine">9</string>
+    <string name="time_ten">10</string>
     <string name="time_eleven">Eleven</string>
     <string name="time_twelve">Twelve</string>
-    <string name="time_oclock">o Clock</string>
-    <string name="time_five_past">Five after</string>
+    <string name="time_oclock">o ساعة</string>
+    <string name="time_five_past">بعد خمسة</string>
     <string name="time_ten_past">Ten after</string>
     <string name="time_quarter_past">Quarter after</string>
     <string name="time_twenty_past">Twenty</string>
     <string name="time_twenty_five_past">TwentyFive after</string>
-    <string name="time_half_past">Half past</string>
+    <string name="time_half_past">نصف الماضى</string>
     <string name="time_twenty_five_to">TwentyFive till</string>
     <string name="time_twenty_to">Twenty till</string>
     <string name="time_quarter_to">Quarter till</string>
-    <string name="time_ten_to">Ten till</string>
-    <string name="time_five_to">Five till</string>
+    <string name="time_ten_to">حتى عشرة</string>
+    <string name="time_five_to">حتى خمسة</string>
 
     <!-- Enable power menu -->
     <string name="lockscreen_enable_power_menu_title">Enable power menu</string>
@@ -1088,10 +1088,10 @@
 
     <!-- Performance -->
     <string name="pref_mcps_title">Multicore power saving</string>
-    <string name="pref_force_fast_charge_title">Force fast charge</string>
-    <string name="mcps_0">Off</string>
-    <string name="mcps_1">On</string>
-    <string name="mcps_2">Aggressive</string>
+    <string name="pref_force_fast_charge_title">نظام الشحن السريع</string>
+    <string name="mcps_0">غلق</string>
+    <string name="mcps_1">فتح</string>
+    <string name="mcps_2">مكافح</string>
 
     <!-- Art Runtime -->
     <string name="custom_runtime_warning_message_dcm">ART is not officially supported by DarkCyanogenMod ROM as it is highly experimental and has the potential to cause instability, crashes, data loss or prevent the proper boot of your device. Visit &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt; for more information.&lt;br/&gt;&lt;br/&gt;We request you do not file bug reports if you have enabled ART as your runtime.&lt;br/&gt;&lt;br/&gt;Are you sure you want to reboot to change runtime from <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> to <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
